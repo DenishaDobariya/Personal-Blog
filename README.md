@@ -65,7 +65,7 @@
 
 5.**Start the frontend development server:**
 
-    npm run dev
+      npm run dev
 
 
 6.**Open your browser and go to http://localhost:5000 to view the app.**
